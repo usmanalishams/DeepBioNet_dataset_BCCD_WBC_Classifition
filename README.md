@@ -1,3 +1,8 @@
+SOPs for Using this Dataset in your work.
+This dataset was created based on scientific findings from the published paper: "Bio-net dataset: AI-based diagnostic solutions using peripheral blood smear images" Blood Cell Molecule & Disease by Elsvier. Link to the paper (https://www.sciencedirect.com/science/article/abs/pii/S1079979624000019) Please cite this paper if you use this dataset in your work.
+"The authors of the article are "Usman Ali Shams , Isma Javed , Muhammad Fizan , Aqib Raza Shah , Ghulam Mustafa , Muhammad Zubair , Yehia Massoud , Muhammad Qasim Mehmood , Muhammad Asif Naveed"
+
+
 # DeepBioNet_dataset_BCCD_WBC_Classifition
 Customized Dataset
 
